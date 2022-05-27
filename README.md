@@ -1,0 +1,1 @@
+Selecting a path to a file or folder using explorer in a PyQt5 application.
