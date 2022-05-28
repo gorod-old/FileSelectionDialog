@@ -2,3 +2,4 @@ venv
 text_files
 dist
 build
+*.spec
